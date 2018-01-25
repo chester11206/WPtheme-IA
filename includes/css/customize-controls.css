@@ -1,0 +1,26 @@
+.customize-control-info h2{
+	border:1px solid #ff9900; 
+	padding:5px; 
+	color:#ff9900; 
+	text-transform:uppercase; 
+	text-align: center; 
+	font-size: 15px; 
+	font-weight: normal;
+}
+#logIn {
+    background-color: #f44336; /* Red */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+.carousel { background: #000; }
+.carousel .item { height: 350px; overflow: hidden; }
+.carousel .item img { width: 100%; height: auto; margin-top: -15%; }
+.carousel-caption a { color: #fff; }
